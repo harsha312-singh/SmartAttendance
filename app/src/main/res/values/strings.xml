@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">smartattendance</string>
+    <string-array name="semester">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+    </string-array>
+
+    <string-array name="batch">
+        <item>CS-1</item>
+        <item>CS-2</item>
+        <item>CS-3</item>
+        <item>IT-1</item>
+        <item>IT-2</item>
+        <item>MECH-1</item>
+        <item>MECH-2</item>
+        <item>ETC-1</item>
+    </string-array>
+
+</resources>
